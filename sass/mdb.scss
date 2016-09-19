@@ -17,30 +17,30 @@
 // MDB Framework //
 
 // Mixins
-@import "mdb/free/data/prefixer";
-@import "mdb/free/data/mixins";
+@import "free/data/prefixer";
+@import "free/data/mixins";
 
 // Variables
-@import "mdb/free/data/colors"; 
-@import "mdb/free/data/variables-b4";
-@import "mdb/free/data/variables";  
+@import "free/data/colors"; 
+@import "free/data/variables-b4";
+@import "free/data/variables";  
 
 //Global
-@import "mdb/free/global"; 
+@import "free/global"; 
   
 // MDB Free  
-@import "mdb/free/roboto";
-@import "mdb/free/typography";
-@import "mdb/free/animations";
-@import "mdb/free/waves";
-@import "mdb/free/helpers";
-@import "mdb/free/buttons";  
-@import "mdb/free/forms-basic";
-@import "mdb/free/cards-basic";  
-@import "mdb/free/navbars";  
-@import "mdb/free/hover-effects";  
-@import "mdb/free/footer";  
-@import "mdb/free/carousels-basic"; 
+@import "free/roboto";
+@import "free/typography";
+@import "free/animations";
+@import "free/waves";
+@import "free/helpers";
+@import "free/buttons";  
+@import "free/forms-basic";
+@import "free/cards-basic";  
+@import "free/navbars";  
+@import "free/hover-effects";  
+@import "free/footer";  
+@import "free/carousels-basic"; 
 
 
 
